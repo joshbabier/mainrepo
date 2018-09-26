@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = mysubrepos/subrepo
+	url = git@github.com:joshbabier/subrepo.git
